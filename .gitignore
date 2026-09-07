@@ -1,2 +1,22 @@
 # Игнорировать служебную папку Obsidian
 .obsidian/
+# Игнорировать все Excel-файлы
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+
+# Временные файлы Excel (уже было)
+~$*.xlsx
+$*.xlsx
+# Игнорировать все Excel-файлы
+*.xlsx
+*.xls
+*.xlsm
+*.xlsb
+*.csv
+*.tsv
+
+# Временные файлы Excel
+~$*.xlsx
+$*.xlsx
